@@ -1,0 +1,1 @@
+This file contains only your opinion about this github account.
